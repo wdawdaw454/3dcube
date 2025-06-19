@@ -1,24 +1,5 @@
 // #include <Arduino.h>
 
-// void setup() {
-//   // put your setup code here, to run once:
-// }
-
-// void loop() {
-//   // put your main code here, to run repeatedly:
-// }
-
-/*
-
- Example sketch for TFT_eSPI library.
-
- No fonts are needed.
- 
- Draws a 3d rotating cube on the TFT screen.
- 
- Original code was found at http://forum.freetronics.com/viewtopic.php?f=37&t=5495
- 
- */
 
 #define BLACK 0x0000
 #define WHITE 0xFFFF
